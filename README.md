@@ -49,7 +49,7 @@ THEN the password is either displayed in an alert or written to the page
 
 Github repo: https://github.com/laboettcher/Password-Generator-Challenge-3
 
-Deployed application: https://laboettcher.github.io/Password-Generator-Challenge-3/
+Deployed application: https://laboettcher.github.io/Password-Generator-Challenge-3/ 
 
 ## References
 
